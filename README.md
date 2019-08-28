@@ -19,4 +19,4 @@ Project is created with:
 * HTML 5 
 
 #### Sources
-This page was made for the needs of the workshops - Bootstrap Akademia 108.
+Homework - Bootstrap Akademia 108.
