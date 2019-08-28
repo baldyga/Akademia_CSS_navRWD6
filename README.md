@@ -10,7 +10,7 @@ Page created with: RWD and position properties in CSS.
 * Sources
 
 #### Gereral info 
-Project portfolio is made on the basic of project design. It is simple page with three layouts: for mobiles, tablets and computers.
+Project is made on the basic of project design. It is simple page with three layouts: for mobiles, tablets and computers.
 
 #### Technologies
 Project is created with:
